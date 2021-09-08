@@ -1,0 +1,19 @@
+.home {
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    border: 2px solid black;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.dummy {
+        /* background-size: cover; */
+        height: 50%;
+        background-size: cover;
+}
+.home {
+    height: 100vh;
+}
